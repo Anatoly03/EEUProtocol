@@ -267,6 +267,8 @@ Occurs when a player moves
 
 Indexes `12` to `17` contain the `X` and `Y` coordinates (in order) of the blocks the player touch during movement.
 
+**SIDE NOTE BY ANATOLY**: Something's missing here. 28, 29, 30 are actually 29, 30, 31. Use 29 for indicating a space press!
+
 ### <a id="rm-playersmiley">"PlayerSmiley"</a>
 Occurs when a player changes their smiley
 
