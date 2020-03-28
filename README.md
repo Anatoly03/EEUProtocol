@@ -277,6 +277,13 @@ Occurs when a player changes their smiley
 | `0`  | `Integer`   | ID                 | The player's ID
 | `1`  | `Integer`   | Smiley ID          | The smiley's ID
 
+### <a id="rm-won">"Won"</a>
+Occurs when a player touches the crown block
+
+| ID   | Type        | Name               | Description
+| ---  | ---         | ----               | -----------
+| `0`  | `Integer`   | ID                 | The player's ID
+
 ### <a id="rm-zonecreate">"ZoneCreate"</a>
 Occurs when a zone is created
 
